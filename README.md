@@ -5,6 +5,10 @@ Software Engineer
 -----------------
 
 I am a passionate and versatile software engineer with extensive experience building and maintaining high-performance applications across web, mobile, and OCR technologies. With a strong foundation in both front-end and back-end development, I specialize in crafting scalable, efficient, and user-friendly solutions that drive business growth.
+
+* ✉️  You can contact me at [honeyworld0909@gmail.com](mailto:honeyworld0909@gmail.com)
+
+
 ### Key Skills:
 #### Web Development:
 Expertise in full-stack web development with modern technologies including Node.js, React.js, Flask, Django, FastAPI, and Ruby on Rails. Proficient in building RESTful APIs, managing databases, and integrating third-party services.
